@@ -1,0 +1,6 @@
+# Build output
+bin/
+
+# Your settings (written by `lactase settings`)
+lactase.json
+*.tmp
